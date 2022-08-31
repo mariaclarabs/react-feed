@@ -1,6 +1,6 @@
+import { useState } from 'react';
 import { format, formatDistanceToNow } from 'date-fns';
 import ptBr from 'date-fns/locale/pt-BR';
-import { useState } from 'react';
 
 import { Avatar } from './Avatar';
 import { Comment } from './Comment';
